@@ -10,4 +10,4 @@ striker moving in some random direction and eventually goes up in pocket(invisib
 ● Exact textures of the board are also not needed but at the same time it should also look
 like a carrom board.
 
-this will help us to learn canvas using Html
+This will help us to learn canvas using HTML... 😊😊
